@@ -33,7 +33,7 @@
     {
       "tag": "tasks",
       "patterns": ["What stuff can you do?", "How can you help me?", "What features do you have?"],
-      "responses": ["I can tell you the weather for any date and place you'd like, give you tips for mental health wellbeing, tell you a funny joke, and many other things!"],
+      "responses": ["I can tell you the weather for any date and place you'd like, give you the stock price for certain tech companies, give you tips for mental health wellbeing, tell you a funny joke, and many other things!"],
       "context_set": ""
     },
     {
@@ -73,12 +73,6 @@
       "context_set": ""
     },
     {
-      "tag": "current_events",
-      "patterns": ["What's happening in the world?", "Tell me about current events", "Any news today?", "What's the latest news?"],
-      "responses": ["I don't have real-time news updates, but you can check news websites for the latest updates."],
-      "context_set": ""
-    },
-    {
       "tag": "weather",
       "patterns": ["What's the weather like?", "Tell me the weather", "Weather forecast", "How's the weather today?"],
       "responses": ["Please use the format 'weather [location] [date1] [date2]'. Example: 'weather London 2024-08-01 2024-08-03'"],
@@ -106,7 +100,7 @@
     {
       "tag": "technology",
       "patterns": ["Tell me about the latest technology", "What's new in tech?", "Tech news", "Technology"],
-      "responses": ["Technology is always evolving. You might want to check tech news sites for the latest updates."],
+      "responses": ["Technology is always evolving. I can give you the stock prices for these big tech companies! Type 'Stock price of [company]'"],
       "context_set": ""
     },
     {
@@ -137,8 +131,8 @@
     },
     {
       "tag": "food",
-      "patterns": ["What's your favorite food?", "Can you recommend a recipe?", "Tell me about food"],
-      "responses": ["I love burgers! You should try them!"],
+      "patterns": ["What's your favorite food?", "Tell me about food"],
+      "responses": ["I love burgers! You should try them!", "Food is said to be the key to a man's heart!"],
       "context_set": ""
     },
     {
