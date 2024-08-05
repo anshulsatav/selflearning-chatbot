@@ -1,0 +1,21 @@
+{"input": "Hey", "response": "Hi there, how can I help you?", "feedback": "good"}
+{"input": "Howdy", "response": "Great to see you!", "feedback": "good"}
+{"input": "Where are you from mate?", "response": "Great to see you!", "feedback": "bad"}
+{"input": "Adios", "response": "Hello!", "feedback": "bad"}
+{"input": "hey", "response": "Hello!", "feedback": "good"}
+{"input": "how are ya", "response": "Hi there, how can I help you?", "feedback": "bad"}
+{"input": "please help", "response": "Sure, I'm here to help! What do you need assistance with?", "feedback": "good"}
+{"input": "hola", "response": "Hi there, how can I help you?", "feedback": "good"}
+{"input": "good job", "response": "Hello!", "feedback": "bad"}
+{"input": "hola mi amigo", "response": "Hi there, how can I help you?", "feedback": "good"}
+{"input": "You have done very well!", "response": "I feel awesome!", "feedback": "good"}
+{"input": "What is my name?", "response": "My name is Anshul!", "feedback": "bad"}
+{"input": "My name is Sir, your name is Anshul", "response": "My name is Anshul!", "feedback": "bad"}
+{"input": "What is my name?", "response": "My name is Anshul!", "feedback": "bad"}
+{"input": "Hey", "response": "Hi there, how can I help you?", "feedback": "good"}
+{"input": "How is the weather like", "response": "Please use the format 'weather [location] [date1] [date2]'. Example: 'weather London 2024-08-01 2024-08-03'", "feedback": "good"}
+{"input": "Good job buddy", "response": "Hello!", "feedback": "bad"}
+{"input": "How is the weather liek my friend?", "response": "Please use the format 'weather [location] [date1] [date2]'. Example: 'weather London 2024-08-01 2024-08-03'", "feedback": "good"}
+{"input": "gimme some weather info myan", "response": "Please use the format 'weather [location] [date1] [date2]'. Example: 'weather London 2024-08-01 2024-08-03'", "feedback": "good"}
+{"input": "Hello!", "response": "Great to see you!", "feedback": "good"}
+{"input": "Thank you man, appreiate it!", "response": "I am alright, thanks for asking!", "feedback": "good"}
