@@ -7,6 +7,7 @@ This is an intelligent chatbot application built using Python, TensorFlow, and N
 2. Weather Information: Fetches and displays weather information for a specified location and date range using the Visual Crossing Weather API.
 3. Stock Prices: Provides the latest stock prices for popular companies using the Alpha Vantage API.
 4. Feedback and Retraining: Collects user feedback on responses and retrains the model to improve its accuracy.
+5. Many other features that the model responds to including recommending movies and songs.
 
 # User Interface: Simple GUI built using Tkinter.
 # Requirements
